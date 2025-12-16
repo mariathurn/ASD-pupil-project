@@ -1,2 +1,4 @@
 /rawdata
 *.csv
+/old
+*.parquet
