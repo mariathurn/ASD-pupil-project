@@ -4,3 +4,4 @@
 *.parquet
 /data_old
 *.docx
+/data
