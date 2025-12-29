@@ -1,4 +1,6 @@
 /rawdata
 *.csv
-/old
+/Old
 *.parquet
+/data_old
+*.docx
