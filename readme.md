@@ -1,4 +1,4 @@
-# Using Pupil Responses in Video-Viewing to Classify ASD
+# Using Pupil Responses in Video-Viewing to Classify Autism Spectrum Disorder
 
 This repository contains the code used for the course project **"Using Pupil Responses in Video-Viewing to Classify Autism Spectrum Disorder"**, completed as part of **Computational Cognitive Science 3** (MSc IT & Cognition, University of Copenhagen).
 
